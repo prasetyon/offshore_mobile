@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Inspection Offshore for Maintenance</string>
+
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="create_user_account">Create New User Account</string>
+    <string name="create_admin_account">Create New Admin Account</string>
+    <string name="projectID">project id</string>
+    <string name="passcode">enter passcode</string>
+    <string name="owner">Owner</string>
+    <string name="platformName">Platform Name</string>
+    <string name="documentNumber">Document Number</string>
+    <string name="documentTitle">Document Title</string>
+    <string name="revision">Revision</string>
+    <string name="validity">Validity</string>
+    <string name="yearinstalled">Year Installed</string>
+    <string name="skkp">SKKP Number</string>
+    <string name="daftarnip">Daftarkan NIP</string>
+    <string name="ok">ok</string>
+    <string name="submit">submit</string>
+    <string name="back">back</string>
+</resources>
